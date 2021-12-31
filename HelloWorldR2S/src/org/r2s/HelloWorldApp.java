@@ -5,5 +5,7 @@ public class HelloWorldApp {
 		System.out.println("Hello R2S!");
 		System.out.println("Hello R2S!");
 
+		System.out.println("Hello R2S!");
+
 	}
 }
